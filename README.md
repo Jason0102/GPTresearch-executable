@@ -52,7 +52,8 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * 輸出檔案: 領域主題.png
 * 執行版影片: https://youtu.be/s8YgKynFv3g
 
-![working memory eeg](https://github.com/Jason0102/GPTresearch/assets/57864575/4b4a885c-21f5-4bda-aea3-77a87d9599f6)
+![Autonomous mobile robot_](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/133752e3-40c0-4630-b37c-f354e904ad9c)
+
 
 ### 2. 以文章搜尋相關文獻
     search_paper_by_paragraph(paper_N=2, keyword_N=2)
@@ -62,7 +63,7 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * 輸出檔案: 輸入檔名_reference.docx
 * 執行版影片: https://youtu.be/wJvj5dmvHR8
     
-![圖片1](https://github.com/Jason0102/GPTresearch/assets/57864575/5bd8249e-d621-42cb-b0f7-32fe7fc5dea0)
+![螢幕擷取畫面 2024-03-05 150810](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/cbcd7fd6-fdc6-4b15-806b-c470b76fe999)
 
 ### 3. 多論文閱讀分析 
     batch_analyze_paper(chinese=True)
@@ -72,8 +73,7 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * 輸出檔案: Reading.docx / Reading_ch.docx
 * 執行版影片: https://youtu.be/mWo5Ex-q-bc
 
-![圖片2](https://github.com/Jason0102/GPTresearch/assets/57864575/9b7670ec-7696-4904-befc-925b80501ced)
-
+![螢幕擷取畫面 2024-03-05 151453](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/138dbbfe-f9d2-44bd-80f8-d012702439fd)
 
 ### 4. 論文英文校稿 
     grammar_check()
@@ -98,8 +98,8 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * 輸出檔案: 圖片檔名_answer.docx
 * 題目是中文(ch)或者英文(en)
 * 執行版影片: https://youtu.be/jINbLh1Feqk
-    
-<img width="539" alt="圖片3" src="https://github.com/Jason0102/GPTresearch/assets/57864575/a1b3a061-8418-4c9d-a420-7830a8cfa5c0">
+
+![螢幕擷取畫面 2024-03-05 153429](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/fe42e80e-78c7-4b39-bd47-acf2596fb448)
 
 ### 7. 碼農代工 
     coding(text1, language="C++")
@@ -122,12 +122,17 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * 輸出檔案: 輸入檔名_abstract.txt
 * 執行版影片: https://youtu.be/n9n4JuQq974
 
+![螢幕擷取畫面 2024-03-05 154623](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/42773c65-c403-45cd-8bf8-b60c636b593d)
+
+
 ### 10. 調整引用格式 
     reference_rearrange(reference_type=格式範例)
 * 給定引用格式範例，將參考文獻的閱讀報告以出現順序做成引用列表
 * 一次一個檔案(.docx)
 * 輸出檔案: 輸入檔名_rereference.docx
 * 執行版影片: https://youtu.be/8Yo3UFeYOiI
+
+![螢幕擷取畫面 2024-03-05 155648](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/6992dc28-d065-48cf-8a45-5623f4bd4b70)
 
 ### 11. 撰寫論文介紹章節 
     write_introduction_by_reference(word=1000, reference_type=格式範例)
@@ -136,7 +141,8 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * 輸出檔案: 輸入檔名_introduction.docx
 * 執行版影片: https://youtu.be/r8v-9UXeVtE
 
-<img width="521" alt="圖片4" src="https://github.com/Jason0102/GPTresearch/assets/57864575/97d644cf-57a5-407b-9641-fb059fba9593">
+![螢幕擷取畫面 2024-03-05 163015](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/3f416f96-6c5d-4c72-98e9-4d9ef44b799f)
+
 
 ## 備註
 GPTresearch僅作為研究活動上的輔助工具，研究過程中的實驗、論證還需仰賴學者自身的學養與智識，任何產出的結果須經過人為查驗以確保知識的正確性。
@@ -146,5 +152,6 @@ CONTACT: d11522006@ntu.edu.tw
 
 This work is supported by National Taiwan University Robotics Lab.
 
-![logo](https://github.com/Jason0102/GPTresearch/assets/57864575/0f5ad3ab-5cab-48ef-9cc6-51f0195e0220)
+![螢幕擷取畫面 2024-03-12 163346](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/61994d57-b086-40b2-a9c1-921bbf874eb5)
+
     
