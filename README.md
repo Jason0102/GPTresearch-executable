@@ -117,6 +117,7 @@ GPTresearch僅作為研究活動上的輔助角色，研究過程中的實驗、
 
 ## 資訊
 CONTACT: d11522006@ntu.edu.tw
+
 This work is supported by National Taiwan University Robotics Lab.
 
 ![logo](https://github.com/Jason0102/GPTresearch/assets/57864575/0f5ad3ab-5cab-48ef-9cc6-51f0195e0220)
