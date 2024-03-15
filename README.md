@@ -59,6 +59,7 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * 一次一個文件(.pdf/.docx)
 * keyword_N: 要提取幾個關鍵字，paper_N: 每個關鍵字要找幾個文獻
 * 輸出檔案: 輸入檔名_reference.docx
+* 示範影片: https://youtu.be/wJvj5dmvHR8
     
 ![圖片1](https://github.com/Jason0102/GPTresearch/assets/57864575/5bd8249e-d621-42cb-b0f7-32fe7fc5dea0)
 
