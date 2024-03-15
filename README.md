@@ -1,6 +1,11 @@
 # GPTresearch執行版 使用指南
 GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的研究輔助工具，旨在協助研究人員完成各項學術工作，可有效填補語言鴻溝，並縮減從發想到學術著作的研發週期。
 
+![螢幕擷取畫面 2024-03-15 134410](https://github.com/Jason0102/GPT-research-executable/assets/57864575/50f2f0e4-02bd-4b7e-9d11-da2fc30c0242)
+
+下載地址，請先連絡管理者取得檔名與密碼:
+https://drive.google.com/drive/folders/1AOQoYaXLslQTJ89NRsKChc3JD1IYiWuL?usp=sharing
+
 ## 環境
 * 必要: Windows 10/11, Microsoft Word
 * 選配: pytesseract，下載安裝 https://digi.bib.uni-mannheim.de/tesseract/
@@ -109,6 +114,8 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 ## 備註
 GPTresearch僅作為研究活動上的輔助角色，研究過程中的實驗、論證還需仰賴學者自身的學養與智識，任何產出的結果須經過人為查驗以確保知識的正確性。
 
+## 資訊
+CONTACT: d11522006@ntu.edu.tw
 This work is supported by National Taiwan University Robotics Lab.
 
 ![logo](https://github.com/Jason0102/GPTresearch/assets/57864575/0f5ad3ab-5cab-48ef-9cc6-51f0195e0220)
