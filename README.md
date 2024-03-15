@@ -37,13 +37,14 @@ https://drive.google.com/drive/folders/1AOQoYaXLslQTJ89NRsKChc3JD1IYiWuL?usp=sha
 
 ## 功能
 從下列功能中擇一，修改並執行main.py
-### 熱門研究方向 
+### 研究熱門關鍵字
     research_wordcloud(topic=研究領域, background_color='black', interval=1)
 * 給定一個領域主題，搜尋近一年來的相關文章找出熱門研究方法，並繪製關鍵詞雲圖
 * 一次一個領域主題
 * background_color: 背景顏色
 * interval: 搜尋時間範圍(年)
 * 輸出檔案: 領域主題.png
+* 示範影片: https://youtu.be/s8YgKynFv3g
 
 ![working memory eeg](https://github.com/Jason0102/GPTresearch/assets/57864575/4b4a885c-21f5-4bda-aea3-77a87d9599f6)
 
