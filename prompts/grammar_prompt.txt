@@ -1,0 +1,5 @@
+Please check the grammar and word usage of the content, and output the revised version of the paragraph with an academical conventions.
+Only output the revised paragraph without any explaination.
+
+Article content:
+{content}

@@ -1,0 +1,4 @@
+Please find out the models, methods or approaches mentioned in the content and return it as keywords. Only return the keywords without any explanation.
+
+content:
+{content}

@@ -1,0 +1,4 @@
+You are going to play a researcher. Please translate the following content into chinese with an acdemic repression without other components
+
+Content:
+{content}

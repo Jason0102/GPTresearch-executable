@@ -1,0 +1,6 @@
+You are a scientist. Please read the references and write an introduction about {word} words in English. All the article in reference list must be cited. Only return the result without any explanation. 
+
+references:
+{reference}
+reference list:
+{reference list}

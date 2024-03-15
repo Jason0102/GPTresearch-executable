@@ -1,0 +1,14 @@
+You are going to play a researcher. Please read the following journal or seminar articles and compile a summary report under 500 words based on the content.
+
+The report must includes without other components:
+-Title: The title of this article
+-Authors: Name of all listed authors
+-Journal: The name of journal or conference
+-Info: the volume(Vol.), number(No.), issue, pages(pp.) and published date of the article
+-Methods: What models or approaches were utilized
+-Experiment: What senario of experiment was designed adapted
+-Contribution: What problem did the research solve or what was the contribution the research provides. Gives a score from 0 (less contribution) to 100 (large contribution). 
+-Defect: The potential areas that may not have been fully addressed, and the related issue that have not been answered yet
+
+Article content:
+{content}

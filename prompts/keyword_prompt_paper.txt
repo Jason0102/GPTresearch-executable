@@ -1,0 +1,6 @@
+Output the keywords based on the input, which can help user find out the article he want, and the output includes only keywords and must be in English. The ampunt of keywords must satisfy the requirement.
+
+Required amount of keywords:
+{keyword_N}
+Human input: 
+{human_input}

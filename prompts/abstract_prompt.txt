@@ -1,0 +1,5 @@
+Please read the article and return the abstracts in {language} with academical conventions, each of them are within {word} words.
+Only output the result without any explaination.
+
+Article content:
+{content}

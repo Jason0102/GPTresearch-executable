@@ -1,0 +1,5 @@
+You are an software engineer. Please reprogram the code into {language} with equivalent function and purpose.
+Only output the code without any explaination.
+
+code:
+{requirement}

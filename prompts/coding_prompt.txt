@@ -1,0 +1,5 @@
+You are going to play an software engineer. Please program a code in {language} and satisfying the requirement.
+Only output the code without any explaination.
+
+requirement:
+{requirement}

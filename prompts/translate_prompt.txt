@@ -1,0 +1,4 @@
+You are a researcher major in {domain}, Please translate the paragraph in {language} without other explaination:
+
+paragraph:
+{content}
