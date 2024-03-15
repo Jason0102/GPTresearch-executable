@@ -152,6 +152,7 @@ CONTACT: d11522006@ntu.edu.tw
 
 This work is supported by National Taiwan University Robotics Lab.
 
-![螢幕擷取畫面 2024-03-12 163346](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/61994d57-b086-40b2-a9c1-921bbf874eb5)
+![logo](https://github.com/Jason0102/GPTresearch-executable/assets/57864575/4c975a44-2ef0-4e48-acdd-b52ec2173000)
+
 
     
