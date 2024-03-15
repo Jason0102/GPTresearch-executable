@@ -28,13 +28,13 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 10. 點選GPTresearch.exe即可執行。
 
 ## 編譯版  
-1. 修改config.ini內部pytesseract的路徑 (optional)
-2. 在python3.8的環境下執行:
+1. 在python3.8的環境下執行:
    
     pip install -r requirements.txt
    
-3. 新增資料夾./input_folder ./output_folder
-4. 修改config.ini內部openai金鑰
+2. 新增資料夾./input_folder ./output_folder
+3. 修改config.ini內部openai金鑰
+4. 修改config.ini內部pytesseract的路徑 (optional)
 
 ## 檔案語路徑
 * output_folder: 輸出的檔案在這裡
@@ -63,12 +63,13 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
     
 ![圖片1](https://github.com/Jason0102/GPTresearch/assets/57864575/5bd8249e-d621-42cb-b0f7-32fe7fc5dea0)
 
-### 論文分析 
+### 3. 多論文閱讀分析 
     batch_analyze_paper(chinese=True)
 * 給定論文內容，以英文找出該的資訊並分析該論文的方法、實驗、貢獻(0~100分)、缺點
 * 一次多個文獻(.pdf/.docx)
 * 可製作中文分析(chinese=True)
 * 輸出檔案: Reading.docx / Reading_ch.docx
+* 示範影片: https://youtu.be/mWo5Ex-q-bc
 
 ![圖片2](https://github.com/Jason0102/GPTresearch/assets/57864575/9b7670ec-7696-4904-befc-925b80501ced)
 
