@@ -19,8 +19,17 @@ https://drive.google.com/drive/folders/1AOQoYaXLslQTJ89NRsKChc3JD1IYiWuL?usp=sha
 4. 捲動到底部，找到「排除項目」，點擊「新增或移除排除項目」。
 5. 點選「新增排除範圍」，選擇你該資料夾。
 6. 將檔案解壓縮至該資料夾。
-7. 用文字文件開啟config.ini內部openai金鑰 [openai]key1, key2
-8. 點選GPTresearch.exe即可執行。
+7. 用文字文件開啟config.ini設定openai金鑰 [openai]key1, key2
+
+![螢幕擷取畫面 2024-03-15 141215](https://github.com/Jason0102/GPT-research-executable/assets/57864575/24e01e10-6beb-4a57-9935-7ced28ee3d4c)
+
+   
+9. 用文字文件開啟config.ini設定pytesseract 路徑
+
+![螢幕擷取畫面 2024-03-15 141233](https://github.com/Jason0102/GPT-research-executable/assets/57864575/2bf5efd1-113b-49d6-89f4-7251c7a9076a)
+
+
+10. 點選GPTresearch.exe即可執行。
 
 ## 檔案語路徑
 * output_folder: 輸出的檔案在這裡
