@@ -112,11 +112,9 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * 將輸入的程式碼轉換成相同功能的其他程式語言
 * 一次多個檔案(一般程式碼腳本)
 * 輸出檔案: 輸入檔名_程式語言.txt
-* 示範影片: https://youtu.be/A2X7DiNZQbw?si=NYnlDpLkpWIar95o
+* 示範影片: 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GtlcOowVptU/0.jpg)]([https://www.youtube.com/watch?v=GtlcOowVptU "Unity Snake Game"](https://youtu.be/A2X7DiNZQbw?si=NYnlDpLkpWIar95o))
-
-### 撰寫摘要 
+### 9. 撰寫摘要 
     abstract(language='en', word=200)
 * 輸入文章，依照字數要求產出摘要
 * 一次多個檔案(.pdf/.docx)
