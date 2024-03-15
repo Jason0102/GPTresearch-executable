@@ -25,8 +25,16 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 
 ![螢幕擷取畫面 2024-03-15 141233](https://github.com/Jason0102/GPT-research-executable/assets/57864575/2bf5efd1-113b-49d6-89f4-7251c7a9076a)
 
-
 10. 點選GPTresearch.exe即可執行。
+
+## 編譯版  
+1. 修改config.ini內部pytesseract的路徑 (optional)
+2. 在python3.8的環境下執行:
+   
+    pip install -r requirements.txt
+   
+3. 新增資料夾./input_folder ./output_folder
+4. 修改config.ini內部openai金鑰
 
 ## 檔案語路徑
 * output_folder: 輸出的檔案在這裡
@@ -34,7 +42,7 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 
 ## 功能
 從下列功能中擇一，修改並執行main.py
-### 研究熱門關鍵字
+### 1. 研究熱門關鍵字
     research_wordcloud(topic=研究領域, background_color='black', interval=1)
 * 給定一個領域主題，搜尋近一年來的相關文章找出熱門研究方法，並繪製關鍵詞雲圖
 * 一次一個領域主題
@@ -45,7 +53,7 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 
 ![working memory eeg](https://github.com/Jason0102/GPTresearch/assets/57864575/4b4a885c-21f5-4bda-aea3-77a87d9599f6)
 
-### 參考文獻蒐集 
+### 2. 以文章搜尋相關文獻
     search_paper_by_paragraph(paper_N=2, keyword_N=2)
 * 給定一個文章、關鍵字數量與需要的文獻數量，從文字中提取關鍵字並搜尋相關聯的文獻
 * 一次一個文件(.pdf/.docx)
