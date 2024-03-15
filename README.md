@@ -1,25 +1,22 @@
-# GPTresearch執行版 使用指南
+# GPTresearch 使用指南
 GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的研究輔助工具，旨在協助研究人員完成各項學術工作，可有效填補語言鴻溝，並縮減從發想到學術著作的研發週期。
 
 ![螢幕擷取畫面 2024-03-15 134410](https://github.com/Jason0102/GPT-research-executable/assets/57864575/50f2f0e4-02bd-4b7e-9d11-da2fc30c0242)
-
-下載地址(請先連絡管理者取得檔名與密碼)
-
-https://drive.google.com/drive/folders/1AOQoYaXLslQTJ89NRsKChc3JD1IYiWuL?usp=sharing
 
 ## 環境
 * 必要: Windows 10/11, Microsoft Word
 * 選配: pytesseract，下載安裝 https://digi.bib.uni-mannheim.de/tesseract/
 
-## 使用 
-步驟2~5避免執行檔被windows防毒軟體擋掉
-1. 開一個資料夾
-2. 開始選單中搜尋「病毒」，並點選「病毒與威脅防護」。
-3. 在「病毒與威脅防護設定」中，點選「管理設定」。
-4. 捲動到底部，找到「排除項目」，點擊「新增或移除排除項目」。
-5. 點選「新增排除範圍」，選擇你該資料夾。
-6. 將檔案解壓縮至該資料夾。
-7. 用文字文件開啟config.ini設定openai金鑰 [openai]key1, key2
+## 執行版 
+步驟3~6為避免執行檔被windows 11防毒軟體擋掉，windows 10 可跳過
+1. 連絡管理者取得授權並下載檔案: https://drive.google.com/drive/folders/1AOQoYaXLslQTJ89NRsKChc3JD1IYiWuL?usp=sharing
+2. 開一個資料夾
+3. 開始選單中搜尋「病毒」，並點選「病毒與威脅防護」。
+4. 在「病毒與威脅防護設定」中，點選「管理設定」。
+5. 捲動到底部，找到「排除項目」，點擊「新增或移除排除項目」。
+6. 點選「新增排除範圍」，選擇你該資料夾。
+7. 將檔案解壓縮至該資料夾。
+8. 用文字文件開啟config.ini設定openai金鑰 [openai]key1, key2
 
 ![螢幕擷取畫面 2024-03-15 141215](https://github.com/Jason0102/GPT-research-executable/assets/57864575/24e01e10-6beb-4a57-9935-7ced28ee3d4c)
 
