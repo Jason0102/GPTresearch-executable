@@ -41,7 +41,8 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 * config.ini: 設定檔
 
 ## 功能
-從下列功能中擇一，修改並執行main.py
+執行版從介面選擇功能並輸入需要要求；編譯版從下列功能中擇一，修改並執行main.py。
+
 ### 1. 研究熱門關鍵字
     research_wordcloud(topic=研究領域, background_color='black', interval=1)
 * 給定一個領域主題，搜尋近一年來的相關文章找出熱門研究方法，並繪製關鍵詞雲圖
@@ -100,16 +101,20 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
     
 <img width="539" alt="圖片3" src="https://github.com/Jason0102/GPTresearch/assets/57864575/a1b3a061-8418-4c9d-a420-7830a8cfa5c0">
 
-### 碼農代工 
+### 7. 碼農代工 
     coding(text1, language="C++")
 * 產出符合要求的程式碼，所有流通的程式語言都可以
 * 輸出檔案: 時間_程式語言.txt
+* 示範影片: https://youtu.be/A2X7DiNZQbw
 
-### 程式翻譯員 
+### 8. 程式翻譯員 
     code_exchange(to_language="python")
 * 將輸入的程式碼轉換成相同功能的其他程式語言
 * 一次多個檔案(一般程式碼腳本)
 * 輸出檔案: 輸入檔名_程式語言.txt
+* 示範影片: https://youtu.be/A2X7DiNZQbw?si=NYnlDpLkpWIar95o
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GtlcOowVptU/0.jpg)]([https://www.youtube.com/watch?v=GtlcOowVptU "Unity Snake Game"](https://youtu.be/A2X7DiNZQbw?si=NYnlDpLkpWIar95o))
 
 ### 撰寫摘要 
     abstract(language='en', word=200)
