@@ -74,26 +74,29 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 ![圖片2](https://github.com/Jason0102/GPTresearch/assets/57864575/9b7670ec-7696-4904-befc-925b80501ced)
 
 
-### 論文校稿 
+### 4. 論文英文校稿 
     grammar_check()
 * 給定論文內容，修正文法錯誤並改用較學術的表達方式英文潤稿
 * 一次一個文獻(.docx)
 * 輸出檔案: 輸入檔名_revised.docx
+* 示範影片: https://youtu.be/IcUN8Xl_1ls
 
-### 專業領域翻譯 
+### 5. 專業領域翻譯 
     professinal_translation(domain="neurobiology", language='ch')
 * 在指定範圍內將輸入翻譯成特定語言，範圍可自行輸入
 * 支援中文(ch)、英文(en)、日文(jp)、德文(de)雙向翻譯
 * 一次多個檔案(.docx)
 * 輸出檔案: 輸入檔名_語言.docx
+* 示範影片: https://youtu.be/AxUKeB1OTyU
     
-### 解題助手 
+### 6. 解題助手 
     solve_problem(language='en')
 * 給定題目的圖片，回覆該題目的解法與可能的答案
 * 一次一個照片(.jpg/.png)
 * 未安裝pytesseract不可使用 (安裝步驟2、3)
 * 輸出檔案: 圖片檔名_answer.docx
 * 題目是中文(ch)或者英文(en)
+* 示範影片: https://youtu.be/jINbLh1Feqk
     
 <img width="539" alt="圖片3" src="https://github.com/Jason0102/GPTresearch/assets/57864575/a1b3a061-8418-4c9d-a420-7830a8cfa5c0">
 
