@@ -3,7 +3,8 @@ GPTresearch 是一款基於Open AI GPT-4 多模態大型語言模型所開發的
 
 ![螢幕擷取畫面 2024-03-15 134410](https://github.com/Jason0102/GPT-research-executable/assets/57864575/50f2f0e4-02bd-4b7e-9d11-da2fc30c0242)
 
-下載地址，請先連絡管理者取得檔名與密碼:
+下載地址(請先連絡管理者取得檔名與密碼)
+
 https://drive.google.com/drive/folders/1AOQoYaXLslQTJ89NRsKChc3JD1IYiWuL?usp=sharing
 
 ## 環境
