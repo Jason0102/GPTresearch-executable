@@ -434,7 +434,7 @@ class App():
         logo.config(bg="white")
         logo.pack()
         # 選單
-        radio1 = ttk.Radiobutton(frame, text="Research wrodcloud/熱門研究方向", value=1, variable=self.selected_option)
+        radio1 = ttk.Radiobutton(frame, text="Research wordcloud/熱門研究方向", value=1, variable=self.selected_option)
         radio1.pack()
         radio2 = ttk.Radiobutton(frame, text="Search papers by paragraph/以文章蒐集論文", value=2, variable=self.selected_option)
         radio2.pack()
